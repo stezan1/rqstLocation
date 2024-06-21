@@ -9,9 +9,9 @@
               <option name="connection">
                 <ConnectionSetting>
                   <option name="appId" value="com.example.friend" />
-                  <option name="mobileSdkAppId" value="1:569289481937:android:da3a57084e71ee37e0eff0" />
-                  <option name="projectId" value="fcmpushnotification-eb6ad" />
-                  <option name="projectNumber" value="569289481937" />
+                  <option name="mobileSdkAppId" value="1:1043343357650:android:85285a1a160645f1d81f0b" />
+                  <option name="projectId" value="fcmpushnotification-fd853" />
+                  <option name="projectNumber" value="1043343357650" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
